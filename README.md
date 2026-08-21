@@ -6,7 +6,7 @@ I'm a Computer Engineering student at the **University of Padua**, holding a Tec
 
 I got my first hands-on experience in the field through school-to-work training programs at **OpenFiber**, where I worked on fiber-optic network deployment, and **Brazzale SpA**, where I focused on systems monitoring and business infrastructure.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** C, C++, C#, Java, JavaScript, PHP, Python
 **Markup:** HTML, XML
@@ -15,18 +15,13 @@ I got my first hands-on experience in the field through school-to-work training 
 **Networking:** Data network configuration, installation, and management
 **Electronics:** Arduino, robotics
 
-## 🌱 Currently
+##  Currently
 
 - Studying Computer Engineering at the University of Padua
 - Exploring cybersecurity fundamentals
 - Looking for opportunities to apply what I've learned to real, concrete projects
 
-## 🌍 Languages
+##  Languages
 
 🇮🇹 Italian (native) · 🇬🇧 English (B2)
 
-## 📫 Reach Me
-
-- LinkedIn: [your LinkedIn URL]
-- Portfolio: https://marangonisimone.netlify.app
-- Email: smarangoni805@gmail.com
