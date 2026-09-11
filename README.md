@@ -10,9 +10,9 @@ I got my first hands-on experience in the field through school-to-work training 
 
 **Languages:** C, C++, C#, Java, JavaScript, PHP, Python<br>
 **Markup:** HTML, XML, JSON<br>
-**Databases:** SQL, phpMyAdmin, basic Oracle
-**Systems:** Windows, macOS, Linux (basics)
-**Networking:** Data network configuration, installation, and management
+**Databases:** SQL, phpMyAdmin, basic Oracle<br>
+**Systems:** Windows, macOS, Linux (basics)<br>
+**Networking:** Data network configuration, installation, and management<br>
 **Electronics:** Arduino, robotics
 
 ##  Currently
