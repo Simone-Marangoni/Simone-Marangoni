@@ -8,8 +8,8 @@ I got my first hands-on experience in the field through school-to-work training 
 
 ##  Tech Stack
 
-**Languages:** C, C++, C#, Java, JavaScript, PHP, Python. 
-**Markup:** HTML, XML, JSON. 
+**Languages:** C, C++, C#, Java, JavaScript, PHP, Python\
+**Markup:** HTML, XML, JSON\
 **Databases:** SQL, phpMyAdmin, basic Oracle<br>
 **Systems:** Windows, macOS, Linux (basics)<br>
 **Networking:** Data network configuration, installation, and management<br>
