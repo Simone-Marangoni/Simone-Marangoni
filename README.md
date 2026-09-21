@@ -10,7 +10,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/about.svg"/><img src="assets/about.svg" width="100%" alt="01 — whoami"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg?v=2"/><img src="assets/stack.svg" width="100%" alt="02 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" width="100%" alt="02 — stack"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" width="100%" alt="03 — experience"/></picture>
 
